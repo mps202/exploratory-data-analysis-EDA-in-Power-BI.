@@ -1,4 +1,4 @@
-# Exploratory-data-analysis-EDA-in-Power-BI.
+# Exploratory-data-analysis-(EDA)-in-Power-BI.
 Assessing the Impact of Health and Lifestyle Factors on Hypertension Risk
 
 Background:
